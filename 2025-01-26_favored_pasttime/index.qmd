@@ -9,29 +9,33 @@ title-block-banner: true
 categories: ['Pathfinder 2e', 'roleplaying', 'TTRPG']
 draft: true
 image: hnefi0.jpg
+lightbox: true
+format-links: [ipynb]
 format: 
     html:
-    #  grid:
-    ##    sidebar-width: 300px
-    #    body-width: 900px
-    #    margin-width: 300px
-    #    gutter-width: 1.5rem
+      #minimal: true
+      grid:
+        sidebar-width: 300px
+        body-width: 900px
+        margin-width: 300px
+        gutter-width: 1.5rem
       #order: 1
-      #embed-resources: true
-      #smooth-scroll: true
+      embed-resources: true
+      smooth-scroll: true
       #toc-location: left
       #page-layout: full
-      #title-block-banner: true
+      title-block-banner: true
       toc: true
+      toc-title: Inventory
       other-links:
         - text: Rules
           href: https://pf2.d20pfsrd.com/
-      code-links:
-        - text: single source authoring code 
-          icon: file-code
-          href: index.qmd #262340_Pathfinder.qmd
+      #code-links:
+      #  - text: single source authoring code 
+      #    icon: file-code
+      #    href: index.qmd #262340_Pathfinder.qmd
     revealjs: 
-      default: true
+      default: false
     docx:
       default: true
       toc: true
@@ -44,7 +48,7 @@ format:
       # referecen-doc: custom-reference-doc.docx
     
     typst:
-      default: true
+      default: false
       toc-title: Inventory
       toc: true
       toc-depth: 3
@@ -55,7 +59,7 @@ format:
         right: 1cm
       columns: 2
     pdf:
-      default: true
+      default: false
       toc: true
       number-sections: true
       colorlinks: true
