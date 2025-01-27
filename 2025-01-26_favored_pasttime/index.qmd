@@ -1,0 +1,231 @@
+---
+title: "Quest: seeking the disturbance" 
+description: Favored pasttime
+subtitle:  The pathfinder quest of Dar, Summer, Mipfh, Freed, and Hnefi
+date: 2025-01-26
+modified: last-modified
+date-format: long
+title-block-banner: true
+categories: ['Pathfinder 2e', 'roleplaying', 'TTRPG']
+draft: true
+image: hnefi0.jpg
+format: 
+    html:
+    #  grid:
+    ##    sidebar-width: 300px
+    #    body-width: 900px
+    #    margin-width: 300px
+    #    gutter-width: 1.5rem
+      #order: 1
+      #embed-resources: true
+      #smooth-scroll: true
+      #toc-location: left
+      #page-layout: full
+      #title-block-banner: true
+      toc: true
+      other-links:
+        - text: Rules
+          href: https://pf2.d20pfsrd.com/
+      code-links:
+        - text: single source authoring code 
+          icon: file-code
+          href: index.qmd #262340_Pathfinder.qmd
+    revealjs: 
+      default: true
+    docx:
+      default: true
+      toc: true
+      numbers-sections: true
+      highlight-style: github
+      toc-depth: 2
+      toc-title: Contents
+      number:sections: false
+      number-depth: 3
+      # referecen-doc: custom-reference-doc.docx
+    
+    typst:
+      default: true
+      toc-title: Inventory
+      toc: true
+      toc-depth: 3
+      section-numbering: 1.1.a
+      papersize: a4
+      margin:
+        left: 1cm
+        right: 1cm
+      columns: 2
+    pdf:
+      default: true
+      toc: true
+      number-sections: true
+      colorlinks: true
+#.newpage {
+#    page-break-before: always; /* Or after, as your desire */
+#}
+---
+
+# The quest of Dar, Summer, Mipfh, Freed, and Hnefi
+It is now two years since the search for the disturbance started and one year since renowned beavergate. Current goal is going towards the Fingers in the far south.
+
+## Journal entry 2025-01-26
+
+### Trip from hut to ship by west side (right bank of river)
+
+We walked with Mr Clam back on the weat side of the river down to the boat.
+
+### Long rest on boat
+Words from Clam (Mr Clamhat) after praying on first nightwatch: "Be care of powerful magic..."
+This guy has the restless syndrome
+
+
+While enjoying the elixirs from the Cantabrian Mountains we came into an ambush during second watch. Freed took arrow fire from forrest and three Boggards came  swimming from behind in a pincer attack.
+
+Freed was on guard with Scruff helping in magnificent resolute style. What a guy... Hnenfi joined in after two round hiatus and Dar followed suit shortly after.. The one attacker tried to go for the mast  ??? but was hook footed...
+
+Result in 3 killed boggarts on deck and 1 fleeing from the forrest line.
+
+Lessons learned:
+
+- Remember to step on liberating step.
+
+- Finally understood how profiency points worked and Natasha started making a new character sheet for Hnefi ;-)
+
+
+### Sailing up river
+
+After resting we sailed up the river. On the left, before the swamp, there was built a solid blockade possible to keep the storm surge from going into the swampy area. What is there?  Further up the river a fork going eastward towards seadevil territory on a river branch was blocked with rocks. We sailed on following the river with swamp and hut on the left side. When coming to a river fork we went north-east towards the castle. The river upstream is still not explored...
+
+The walls were untouched except for a battering rammed hole in the side. Dar climbed outside the wall to the top of a tower on the outer wall. 6 athletics checks and an edge grap later she came back from the elegant night voyage on the outer wall. Tschudo found only dry bones and had a flight back to the boat for treats.
+
+![Tschudos view of outer wall section](./WhatsApp_Image_2025-01-27_at_09.57.16_db5fb16c.jpg)
+
+The place had been invaded 2-300 years ago and in a room of skeletons in sitting posture had been sneak attacked. Ancient Forensics discovered they had their skulls pierced by arrows before understanding what hit them. The arrow heads were hard to find in the rubble however.
+
+![Last supper ](./WhatsApp_Image_2025-01-27_at_09.57.16_301b9b29.jpg)
+
+
+Going towards the center of the castle with a high tower on high ground we passed human-ish defences. They had been caught by surprise but wounds also suggested heavier blunt strikes from swords or the like. Among remains we also found boggard and sea devil remains so these defender had killed more of the assumed attackers. 
+
+
+![Defensive position](WhatsApp_Image_2025-01-27_at_09.57.16_84f88933.jpg)
+
+We passed a building with winged humanoid creature...
+
+
+![mural painting on building with noticable and suspicious  difference of outer and inner dimensions.](./WhatsApp_Image_2025-01-27_at_09.57.17_d572221d.jpg)
+
+### Hator - Mistress of jubilation.
+
+Daais - elevated area for ceremonies inside a building with "graffiti of winged egyptian like creature"
+Completely ransacked place. 
+
+Found secret door revolving so first hard push was unsuccessul. Foul stench is coming from below and stairs going upstairs...
+
+Not possible to open secret passage downstairs, this has to wait...
+
+Children among the remains, but almost no weapon damage. These people died starving. No Boggards or Seadevils so we concluded these creatures had been the assailants in the historical battle from a long long time ago.
+
+The paladdins wanted to let the remains be put to rest gracefully.
+
+[3 gemstones and 500 gold found upstairs]{custom-style="Emphasis"}
+
+Further back a room with "high priest" sitting with a letter/book in front at a desk. Preserved as a mummy by a preservation/embalmment spell. All other remains had been skeletons only.
+
+
+![The inscription in the open book on the desk in front of the preserved priest](quiz.jpg)
+
+We found the following artefacts in and around this room.
+
+1. Ointment urns (sage fragrance)
+2. Bowls
+3. Chalk
+4. Carrying septre
+5. Hieroglyphic writing on diagram
+6. Winged Helmet
+
+
+While solving the puzzle of the cleansing spell Henfi got stupified one while wearing the helmet in prayer. "No,no no" as voice shouted in this head: - Not granted access on first attempt but succeeded in wearing it after using a hero point for the dice roll. Inching closer to the solution the missing element was to put the person to be purified in the center... Result: our divinities were accepted and we got purified in turns. 
+
+
+We learn that this culture is coming from the land of the dessert with both miner and trader cultures.
+
+### Feeling clean and purified
+
+The body of the priest desintegrated as his task was now done and a "cold shaped pebble" was all that remained. Hnefi gave it to Dar....
+
+The downstairs trapdoor opened as we now had root access after the purification spell.
+
+In prayer by the downstairs sarcoffacus we connected with the "Hator - ancient god": There were praying benches for the accepted ones.
+
+On the wall there were pictures of the deeds of the person in the sarcoffagous - founder of the city
+
+In a spiritual session the following understanding dawned on us:
+
+::: {.block fill="luma(230)" inset="8pt" radius="4pt"}
+
+redemption ... respite... we were considered only friendly presence by the divinity since... wanted closure for people.... place of trades.... self governed city, oligarchy... "city had Panama Strait-like function" ... had natural enemies... there was a calamity.... monstrosity from the depth of the sea... appearance of organized agents mounted full type assault ..... proper and dignified place to bury.... trusting us... giving us something... granted by vapor....
+
+::: 
+
+The sarcoffagus opened.
+
+(And Hator was called to dinner (by mommy???) )
+
+### The right handed glove with a winged symbol
+
+The right handed glove with a winged symbol has been created to cover for a group weakness...
+
+The sarcoffagus contained the stinking remains and closed after we took the right handed glove. Dar wears it and we need to find out the use.
+The sarcoffagus closed itself...
+
+We then put the remains in oussaries in the chamber, now a crypt.
+
+1. leaving money with the  traders remains
+3. Exploring tower
+3. Going to close the tomb when done
+
+### Epilogue
+
+We had connected with our original quest. Understanding what unrest is brewing. The attack on this city was from the same "eastern horde" as we heard about two years ago on quest day one. (less than two months ago in quest timeline...)
+
+Mission is to prevent these forces from succeeding..
+
+Gained 400 xp today and at 8630 xp in total. Very near for doing double level up.
+
+# Quest timeline
+
+- Leaving Highport
+- Kobolts and amulet kissing
+- Ship repair and racketeering (scruffy?)
+- Storms and earplugs against sirens
+
+- Geographical institute
+- Cavesystem with trolls, spectres etc.
+- Cockatrice?
+- Petrified Centaurs. 
+- Burndown of outpost
+ -Beavers gate and lost castle
+- Big fight
+- Nibbler / Old wizzard
+- IRS tax return
+
+
+- Sailing on to new city. Toward the "fingers" Need to pay for harbour so new quest to clear a strait.
+- Lighthouse
+- Pirate cove with ballistas
+- Grateful village with crafters...
+- Cursed ship
+
+
+Clearing island off coast.
+
+- Ambush site, escaping with fog spell.
+- Monkeys
+- Hydra
+- Sea devils
+- Boggards Tis way/ keep out
+
+### TODO {.unnumbered .unlisted}
+1. Create world map of events
+2. Establish timeline of our quest (it is already a year since beavergate)
+3. Fill in more on characters backstory.
